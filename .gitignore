@@ -1,0 +1,6 @@
+# Environments
+venv/
+.venv
+
+# Local Project Settings
+.idea/workspace.xml
