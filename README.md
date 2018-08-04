@@ -1,0 +1,1 @@
+This repository holds my files as I work through the book "Python Crash Course" by Eric Matthes. It won't match directly as I'm incorporating techniques I already know from prior programming experience.
